@@ -2,7 +2,7 @@
 Pokémon API: https://pokeapi.co/api/v2/
 
 # Requiments
-pip install pytest (terminal)
-import pytest
-import requests
+- pip install pytest (terminal).
+- import pytest.
+- import requests
            
